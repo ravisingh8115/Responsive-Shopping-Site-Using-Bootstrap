@@ -1,0 +1,42 @@
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.card{
+    width: 18rem;
+    margin: 4%;
+}
+.card img{
+padding-top:2%;
+}
+/* .card-text{
+    height: 64%;
+} */
+footer{
+    background-color: black;
+    color:white;
+}
+.jumbotron a {
+    margin:2%;
+}
+.contact .col-md-3{
+    margin-top: 1%;
+}
+.contact{
+    margin-left: 2%;
+}
+footer {
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.budget{
+    margin: 2%;
+}
+hr{
+    height: 6px !important;
+    
+}
+
